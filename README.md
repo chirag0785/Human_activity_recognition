@@ -15,7 +15,7 @@ This project involves the development of a Human Activity Recognition (HAR) mode
 
 The model is trained and tested on a publicly available dataset, which includes sensor data collected from wearable devices. 
 
-- **Dataset Source**: UCI Machine learning repository
+- **Dataset Source**: https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 - **Number of Samples**: 10000
 - **Number of Features**: 561
 - **Classes**: 6
